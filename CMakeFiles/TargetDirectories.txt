@@ -1,0 +1,10 @@
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/main.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/eth_in.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/eth_out.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/arp_test.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/ip_test.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/ip_frag_test.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/icmp_test.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/test.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/edit_cache.dir
+C:/Users/DWC/Desktop/net-lab-2022-master/CMakeFiles/rebuild_cache.dir

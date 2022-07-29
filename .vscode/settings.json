@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "driver.h": "c",
+        "arp.h": "c",
+        "net.h": "c",
+        "ip.h": "c",
+        "ethernet.h": "c",
+        "config.h": "c"
+    },
+    "cmake.generator": "MinGW Makefiles"   
+}
